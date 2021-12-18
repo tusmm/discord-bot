@@ -1,5 +1,6 @@
 # dev files
 config.json
+.vs
 
 # Logs
 logs
